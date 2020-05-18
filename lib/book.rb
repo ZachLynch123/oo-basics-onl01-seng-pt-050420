@@ -3,6 +3,10 @@ class Book
     @title = title
   end
   
+  def title
+    puts title
+end
+  
   
   
   
