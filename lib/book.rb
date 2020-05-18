@@ -4,7 +4,7 @@ class Book
   end
   
   def title
-    puts title
+    puts @title
   end
 
 end
