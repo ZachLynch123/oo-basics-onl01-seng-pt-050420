@@ -5,16 +5,7 @@ class Book
   
   def title
     puts title
-end
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  end
+
 end
 
