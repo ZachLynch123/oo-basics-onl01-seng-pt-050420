@@ -15,6 +15,13 @@ class Book
   def author
     @author
   end
+  
+  def page_count=(page)
+    @page_count = page
+  end
+  
+  def page_count
+    @page_count
 
 end
 
